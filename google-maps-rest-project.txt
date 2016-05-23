@@ -77,7 +77,7 @@ SoapUI 5.0.0 Maven2 TestCase Runner
 12:41:33,449 INFO  [SoapUITestCaseRunner] Project [Google MapsVG] finished with status [FINISHED] in 1008ms
 [JENKINS] Recording test results
 [INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
+[INFO] BUILD SUCCESS  
 [INFO] ------------------------------------------------------------------------
 [INFO] Total time: 5.871 s
 [INFO] Finished at: 2016-05-23T12:41:33+02:00
